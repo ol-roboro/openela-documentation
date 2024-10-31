@@ -432,7 +432,7 @@ sudo firewall-cmd --permanent --zone=testzone --add-service=http
 
 사전 정의된 Zone을 구성하면 구성 파일이 `/etc/firewalld/zones` 디렉터리에 복사되고 변경 사항이 해당 위치에 저장됩니다. 구성 파일을 사용하여 새 Zone을 생성하는 경우 '/etc/firewalld/zones'도 작업 디렉터리로 사용해야 합니다.
 
-If you're creating a zone with only minor differences from the settings of predefined zones, copying an existing configuration file to the working directory is the easiest approach. You can use either of the following commands:
+미리 정의된 Zone의 설정과 약간만 다른 Zone을 생성하는 경우 기존 구성 파일을 작업 디렉터리에 복사하는 것이 가장 쉬운 방법입니다. You can use either of the following commands:
 
 ```
 sudo cp /etc/firewalld/zones/*existing-conf-file*.xml *new-zone*.xml
