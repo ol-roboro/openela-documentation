@@ -8,27 +8,26 @@
 
 Хоча ми визнаємо, що розмір цих директорій може зростати з часом і, можливо, в майбутньому буде необхідна додаткова організація, поточна структура сприяє легкому наданню контенту з upstream джерел. Ми можемо розглянути можливість реорганізації пізніше.
 
-## Support
+## Підтримка
 
-For more information about this project see the #documentation channel on the OpenELA Slack.
+Для отримання додаткової інформації про цей проєкт перегляньте канал #documentation у Slack OpenELA.
 
-## Contributing
+## Долучитись до проєкту
 
-This project is open for contributions and contributions are very welcome.
-For contributions, please follow the [Contribution guidelines for this project](CONTRIBUTING.md).
+Цей проєкт відкритий для змін, і ми радо їх приймаємо.
+Щоб внести зміни, будь ласка, дотримуйтесь наступних [Правила участі в проєкті](CONTRIBUTING.md).
 
-## Legal Notices
+## Правова інформація
 
-The registered trademark Linux® is used pursuant to a sublicense from the Linux Foundation, the exclusive licensee of Linus Torvalds, owner of the mark on a world­wide basis.
+Зареєстрована торгова марка Linux® використовується відповідно до субліцензії від Linux Foundation, ексклюзивного ліцензіата Linus Torvalds, власника цієї марки на глобальному рівні.
 
-## License
+## Ліцензійна угода
 
 <!-- Please update the list of major contributor to the project copyrights below -->
 
-Copyright © 2023, Oracle and/or its affiliates.
+Авторське право © 2023, Oracle та/або афілійовані компанії.
 
-This work and all files in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Each individual file can have additional Copyright
-notices in source. They are at the top of the files in [SPDX Reuse Format](https://reuse.software/spec/), for example like below:
+Ця робота та всі файли в цьому репозиторії ліцензовані за ліцензією [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Кожен окремий файл може мати додаткові авторські права у початковому коді. Вони знаходяться на початку файлів у [SPDX Reuse Format](https://reuse.software/spec/), наприклад, як показано нижче:
 
 ```
 <!--
@@ -40,10 +39,10 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ```
 
-If you're contributing regularly to the documentation, please add your Copyright information in this file.
+Якщо ви регулярно вносите зміни до документації, будь ласка, додайте інформацію про авторське право у цей файл.
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by-sa-shield]: <[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]>
