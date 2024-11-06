@@ -1,9 +1,8 @@
-# Contributing OpenELA Documentation
+# Долучитись до проєкту документації OpenELA
 
-We welcome your contributions! There are multiple ways to contribute.
+Ми радо приймаємо ваші зміни! Існує кілька способів внести зміни.
 
-All contributions to this repository and to OpenELA in general follow
-[the OpenELA Code of Conduct](https://github.com/openela/governance/blob/main/code_of_conduct.md).
+Усі зміни до цього репозиторію та до OpenELA загалом відповідають наступному [Кодекс поведінки OpenELA] (https://github.com/openela/governance/blob/main/code_of_conduct.md).
 
 ## Did you find an issue?
 
