@@ -1,12 +1,12 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-# openela-documentation
+# openela-документація
 
-## Description
+## Опис
 
-This project is used to store documentation for OpenELA. Documentation is stored in Markdown format. Content is split into two subdirectories, one for builds of Enterprise Linux 8 and the other for Enterprise Linux 9.
+Цей проєкт використовується для зберігання OpenELA документації. Документація зберігається в форматі Markdown. Контент поділений на дві директорії, одна для збірки Enterprise Linux 8, інша для збірки Enterprise Linux 9.
 
-While we recognize that the size of these directories might grow over time and further organization may be required in future, the current structure facilitates easy provision of content from upstream sources. We can explore restructuring at a later date.
+Хоча ми визнаємо, що розмір цих директорій може зростати з часом і, можливо, в майбутньому буде необхідна додаткова організація, поточна структура сприяє легкому наданню контенту з upstream джерел. Ми можемо розглянути можливість реорганізації пізніше.
 
 ## Support
 
