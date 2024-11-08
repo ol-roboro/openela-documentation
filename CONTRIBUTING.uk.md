@@ -4,7 +4,7 @@
 
 Усі зміни до цього репозиторію та до OpenELA загалом відповідають наступному [Кодекс поведінки OpenELA] (https://github.com/openela/governance/blob/main/code_of_conduct.md).
 
-## Did you find an issue?
+## Знайшли хибу?
 
 For any issues, be it a defect, a missing documentation part or any enhancement
 request, please [open an issue on GitHub](https://github.com/openela/openela-documentation/issues).
