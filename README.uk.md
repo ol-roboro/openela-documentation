@@ -27,7 +27,8 @@
 
 Copyright © 2023, Oracle and/or its affiliates.
 
-Ця робота та всі файли в цьому репозиторії ліцензовані за ліцензією [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Кожен окремий файл може мати додаткові авторські права у початковому коді. Вони знаходяться на початку файлів у [SPDX Reuse Format](https://reuse.software/spec/), наприклад, як показано нижче:
+This work and all files in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Each individual file can have additional Copyright
+notices in source. They are at the top of the files in [SPDX Reuse Format](https://reuse.software/spec/), for example like below:
 
 ```
 <!--
