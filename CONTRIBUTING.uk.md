@@ -6,12 +6,11 @@
 
 ## Знайшли хибу?
 
-For any issues, be it a defect, a missing documentation part or any enhancement
-request, please [open an issue on GitHub](https://github.com/openela/openela-documentation/issues).
-Please provide as much detail as you can provide, including a reference to the
-particular chapter or paragraph that the issue is referring to.
+Для будь-яких хиб, будь то дефект, відсутня частина документації або запит на вдосконалення, будь ласка, [open an issue on GitHub](https://github.com/openela/openela-documentation/issues).
+Будь ласка, опишіть якомога більше деталей, включаючи посилання на
+конкретний розділ або абзац на які посилається проблема.
 
-The better written the issue is, the more likely it is going to get fixed.
+Чим краще описано проблему, тим більш ймовірно вона буде виправлена.
 
 ## Contribute documentation
 
