@@ -1,27 +1,24 @@
-# Contributing OpenELA Documentation
+# Долучитись до проєкту документації OpenELA
 
-We welcome your contributions! There are multiple ways to contribute.
+Ми вітаємо ваші внески! Є багато способів зробити свій внесок.
 
-All contributions to this repository and to OpenELA in general follow
-[the OpenELA Code of Conduct](https://github.com/openela/governance/blob/main/code_of_conduct.md).
+.
 
-## Did you find an issue?
+## Знайшли хибу?
 
-For any issues, be it a defect, a missing documentation part or any enhancement
-request, please [open an issue on GitHub](https://github.com/openela/openela-documentation/issues).
-Please provide as much detail as you can provide, including a reference to the
-particular chapter or paragraph that the issue is referring to.
+Для будь-яких хиб, будь то дефект, відсутня частина документації або запит на вдосконалення, будь ласка, [open an issue on GitHub](https://github.com/openela/openela-documentation/issues).
+Будь ласка, опишіть якомога більше деталей, включаючи посилання на
+конкретний розділ або абзац на які посилається проблема.
 
-The better written the issue is, the more likely it is going to get fixed.
+Чим краще описано проблему, тим більш ймовірно вона буде виправлена.
 
-## Contribute documentation
+## Допомогти з документацією
 
-This is a community project and we welcome community members to contribute
-documentation to the project. Contributions are done [by opening a pull request against the project](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+. Contributions are done [by opening a pull request against the project](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-Any contribution requires a [Developer Certificate of Origin](https://developercertificate.org/) (a Signed-off-By tag in the commit message) and must adhere to the [project license](./LICENSE).
+Будь-який внесок вимагає [Developer Certificate of Origin] (https://developercertificate.org/) (Signed-off-By tag у повідомленні коміту) та повинен дотримуватися [project license](./LICENSE).
 
-When you contribute, please submit your pull request against the `main` branch. Please include a summary of your changes in the Pull request initial comment as well as a link to, when available, any GitHub issues that this pull request is addressing.
+Коли ви додаєте свій внесок, будь ласка, відправте ваш запит до `main` гілки. Please include a summary of your changes in the Pull request initial comment as well as a link to, when available, any GitHub issues that this pull request is addressing.
 
 Make sure that all validation Git Hub actions that are getting automatically executed when you open the Pull Request are passing. When they are not passing your PR might not be getting any timely reviews.
 
