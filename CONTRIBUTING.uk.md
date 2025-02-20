@@ -12,7 +12,7 @@
 
 Чим краще описано проблему, тим більш ймовірно вона буде виправлена.
 
-## Contribute documentation
+## Допомогти з документацією
 
 This is a community project and we welcome community members to contribute
 documentation to the project. Contributions are done [by opening a pull request against the project](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
