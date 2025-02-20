@@ -2,7 +2,7 @@
 
 Ми вітаємо ваші внески! Є багато способів зробити свій внесок.
 
-.
+Усі зміни до цього репозиторію та до OpenELA загалом відповідають наступному [the OpenELA Code of Conduct] (https://github.com/openela/governance/blob/main/code_of_conduct.md).
 
 ## Знайшли хибу?
 
@@ -14,7 +14,7 @@
 
 ## Допомогти з документацією
 
-. Contributions are done [by opening a pull request against the project](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+Це проєкт спільноти і ми запрошуємо членів спільноти долучитись до проєкту документації. Внесок можна зробити [by opening a pull request against the project](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 Будь-який внесок вимагає [Developer Certificate of Origin] (https://developercertificate.org/) (Signed-off-By tag у повідомленні коміту) та повинен дотримуватися [project license](./LICENSE).
 
@@ -30,8 +30,8 @@
 
 Для великих внесків додайте інформацію про авторське право в README основного проекту. Для більш цільових внесків Copyright може бути включений у верхній частині відповідного файлу(ів).
 
-Please note that contributions should apply generally to Enterprise Linux. If your contribution is specific to a customization for a downstream distribution, the pull request might not be considered for inclusion.
+Зверніть увагу, що внески, в загалом, повинні стосуватися Enterprise Linux. Якщо ваш внесок стосується кастомізації в downstream, ваш pull request, можливо, не буде взятий до уваги.
 
-## Becoming a Documentation Maintainer
+## Стати супроводжуючим документації
 
-Regularly active contributors earn the trust of the project maintainers and may even be invited to become a maintainer for the documentation project.
+Постійно активні учасники заробляють довіру супроводжуючих проєктів і навіть можуть бути запрошені стати супроводжуючим документації.
