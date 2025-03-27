@@ -81,3 +81,4 @@ To efficiently manage the variety of profiles, `authselect` stores different typ
 The `authselect` utility applies the specifications in the selected profile. However, `authselect` doesn't change the configuration files of the service on which the profile is based. If, for example, you use the `sssd` profile, you must configure SSSD for the service to function properly. Consult the proper documentation to configure the profile's service. You must also ensure that the service is started and enabled.
 
 For more details about the utility, see the `authselect(8)` manual page.
+
