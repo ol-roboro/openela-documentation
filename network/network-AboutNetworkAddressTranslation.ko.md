@@ -26,3 +26,4 @@ sudo sysctl -w net.ipv4.ip_forward=0|1
 명령을 실행하면 새 상태가 표시됩니다. 시스템을 재부팅해도 변경 사항이 유지되도록 하려면 명령 출력 줄을 복사하여 `/etc/sysctl.conf` 파일에 추가하세요.
 
 방화벽 구성 GUI\(`firewall-config`\)를 사용하여 마스커레이딩 및 포트 전달을 구성할 수도 있습니다.
+
