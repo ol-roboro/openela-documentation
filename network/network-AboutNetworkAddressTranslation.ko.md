@@ -26,3 +26,4 @@ sudo sysctl -w net.ipv4.ip_forward=0|1
 The new status is displayed when you run the command. To make the change persist across system reboots, copy the command output line and add it to the `/etc/sysctl.conf` file.
 
 You can also use the Firewall Configuration GUI \(`firewall-config`\) to configure masquerading and port forwarding.
+
