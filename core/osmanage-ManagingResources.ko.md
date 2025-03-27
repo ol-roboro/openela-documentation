@@ -208,7 +208,7 @@ At boot time, Enterprise Linux 8 mounts `cgroups v1` by default. To use `cgroups
 
   1. Configure the system boot to mount `cgroups v2` by default.
 
-    ```
+    ````
     sudo grubby --update-kernel=/boot/vmlinuz-$(uname -r) --args="systemd.unified_cgroup_hierarchy=1"
     ```
 
@@ -217,6 +217,14 @@ At boot time, Enterprise Linux 8 mounts `cgroups v1` by default. To use `cgroups
     ```
     sudo grubby --update-kernel=ALL --args="systemd.unified_cgroup_hierarchy=1"
     ```
+    ````
+
+    The command adds `systemd.unified_cgroup_hierarchy=1` to the current boot entry. To add this parameter to **all** kernel boot entries, type:
+
+    ````
+    sudo mount -l | grep cgroup
+    ```
+    ````
 
   2. Reboot the system.
 
