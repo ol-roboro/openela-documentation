@@ -2,7 +2,7 @@
 SPDX-FileCopyrightText: 2023,2024 Oracle and/or its affiliates.
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-# OpenELA 9
+# OpenELA 10
 
 -   Managing Core System Configuration
     -   [Managing Kernels and System Boot](core/osmanage-WorkingWiththeGRUB2BootloaderandConfiguringBootServices.md#ol-bootconf)
