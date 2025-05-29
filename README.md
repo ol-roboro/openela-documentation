@@ -3,7 +3,7 @@
 # openela-documentation
 
 ## Description
-This project is used to store documentation for OpenELA. Documentation is stored in Markdown format. Content for each Enterprise Linux release is stored in dedicated branches, one for builds of Enterprise Linux 8 (openela8) and the other for Enterprise Linux 9 (openela9).
+This project is used to store documentation for OpenELA. Documentation is stored in Markdown format. Content for each ELA release is stored in dedicated branches, one for builds of Enterprise Linux 8 (openela8), one for builds of Enterprise Linux 9 and for Enterprise Linux 10 (openela10).
 
 Note that the main branch in this repo does not contain documentation. You must switch to the appropriate `openela` branch to view the documentation for each release. 
 
